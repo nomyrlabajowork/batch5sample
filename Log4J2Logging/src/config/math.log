@@ -1,0 +1,360 @@
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps add 
+INFO: start of method add() with parameters x=2, y=3 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps add 
+WARN: using custom Date() object 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps add 
+INFO: end of method add() with parameters x=2, y=3 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps div 
+INFO: start of method div() with parameters x=10, y=2 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps div 
+INFO: end of method div() with parameters x=10, y=2 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=null 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+FATAL: Cannot read the array length because "arrData" is null 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=null 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps div 
+INFO: start of method div() with parameters x=10, y=0 
+2023-02-18 01:14:59 PM [main] org.ssglobal.training.codes.MathOps div 
+ERROR: division by zero error 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps add 
+INFO: start of method add() with parameters x=2, y=3 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps add 
+WARN: using custom Date() object 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps add 
+INFO: end of method add() with parameters x=2, y=3 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps div 
+INFO: start of method div() with parameters x=10, y=2 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps div 
+INFO: end of method div() with parameters x=10, y=2 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=null 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+FATAL: Cannot read the array length because "arrData" is null 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=null 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps displayArray 
+INFO: end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps div 
+INFO: start of method div() with parameters x=10, y=0 
+2023-02-19 09:11:33 AM [main] org.ssglobal.training.codes.MathOps div 
+ERROR: division by zero error 

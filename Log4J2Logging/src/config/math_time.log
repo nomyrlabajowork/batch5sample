@@ -1,0 +1,12 @@
+INFO - start of method add() with parameters x=2, y=3
+WARN - using custom Date() object
+INFO - end of method add() with parameters x=2, y=3
+INFO - start of method div() with parameters x=10, y=2
+INFO - end of method div() with parameters x=10, y=2
+INFO - start of method displayArray() with parameters arrData=null
+FATAL - Cannot read the array length because "arrData" is null
+INFO - end of method displayArray() with parameters arrData=null
+INFO - start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12]
+INFO - end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12]
+INFO - start of method div() with parameters x=10, y=0
+ERROR - division by zero error

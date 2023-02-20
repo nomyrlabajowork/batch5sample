@@ -1,0 +1,12 @@
+2023-Feb-17 06:06:55 PM start of method add() with parameters x=2, y=3 INFO 
+2023-Feb-17 06:06:55 PM using custom Date() object WARN 
+2023-Feb-17 06:06:55 PM end of method add() with parameters x=2, y=3 INFO 
+2023-Feb-17 06:06:55 PM start of method div() with parameters x=10, y=2 INFO 
+2023-Feb-17 06:06:55 PM end of method div() with parameters x=10, y=2 INFO 
+2023-Feb-17 06:06:55 PM start of method displayArray() with parameters arrData=null INFO 
+2023-Feb-17 06:06:55 PM Cannot read the array length because "arrData" is null FATAL 
+2023-Feb-17 06:06:55 PM end of method displayArray() with parameters arrData=null INFO 
+2023-Feb-17 06:06:55 PM start of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] INFO 
+2023-Feb-17 06:06:55 PM end of method displayArray() with parameters arrData=[10, 11, 23, 13, 12] INFO 
+2023-Feb-17 06:06:55 PM start of method div() with parameters x=10, y=0 INFO 
+2023-Feb-17 06:06:55 PM division by zero error ERROR 
