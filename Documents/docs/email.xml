@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	this is XML document is all about.....
+ -->
+<email>
+	<!-- These are the tags -->
+	<to status = "active">Juan</to>
+	<from status="sleep">Maria</from>
+	<message>Kill Bill!!!</message>
+</email>

@@ -1,0 +1,10 @@
+{
+	"employees": { 
+					"employee": [
+									{"id": 100, "firstname": "Juan", "age": {"@classification": "teen", "#text": 18}, "company": null},
+									{"id": 102, "firstname": "Mari", "age": {"@classification": "senior", "#text": 60}, "salary": 9000.00, "company": null},
+									{"id": 499, "Lastname": "Cruz", "age": {"@classification": "adult", "#text": 35}, "address": {"#text":"Batangas", "city": "Lipa", "zip": 2020, "country": "PH"}, "company": {"@name": "77Global", "@years": 25}}
+								]
+	
+				 }
+}

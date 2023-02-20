@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DOCTYPE employees SYSTEM "employees.dtd" --> <!-- for DTD only -->
+<employees  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xmlns="http://www.ssglobal.org/training/employees"
+			xsi:schemaLocation="http://www.ssglobal.org/training/employees employees.xsd">
+		<employee gender="male">
+			<id></id>
+			<firstname>Juan</firstname>
+			<age classification="teen" ></age>
+			<salary></salary>
+			<company/>
+		</employee>
+		<employee pk="1" pos="manager" outbound="true" gender="female">
+			<id></id>
+			<firstname>Mari</firstname>
+			<age classification="senior">60</age>
+			<salary>90000.19</salary>
+			<company/>
+		</employee>
+		<employee pk="2" pos="manager" gender="non-binary">
+			<id>499</id>
+			<lastname>Cruz</lastname>
+			<age classification="adult">35</age>
+			<address>Batangas
+				<country>PH</country>
+				<zip>2020</zip>
+				<city>Lipa</city>
+			</address>
+			<company name="77Global" years="25"/>
+		</employee>
+</employees>

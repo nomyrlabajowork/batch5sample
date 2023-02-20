@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT employees (employee*)>
+<!-- only apply grouping here -->
+<!-- | - use to jumble where to place two or more elements -->
+<!-- * - zero or more occurrence -->
+<!-- ? - can only choose one element only -->
+<!ELEMENT employee (id, (firstname | lastname)*, age, (salary | address)?, company)> 
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ELEMENT address (#PCDATA | city | country | zip)*><!-- complex element with mix element -->
+<!ELEMENT company EMPTY>
+
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT zip (#PCDATA)>
+
+ <!-- 'pk' can/not be implemented in the employee element -->
+<!ATTLIST employee pk CDATA "10">
+<!ATTLIST employee gender CDATA #REQUIRED>
+<!-- you can put the attribute in the element or not, it is not required -->
+<!ATTLIST employee outbound CDATA #IMPLIED> 
+ <!-- has fixed value for the position, can/not be implemented in the element cause it has fixed value already -->
+<!ATTLIST employee position CDATA #FIXED "manager">
+<!ATTLIST employee country (PH|BRZ|SPN|US|UK) "PH">

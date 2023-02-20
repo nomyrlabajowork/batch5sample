@@ -1,0 +1,8 @@
+{
+	"email": {
+				"to": {"@status": "active", "#text": "Juan"},
+				"from": {"@status": "sleep", "#text": "Maria"},
+				"message": "Kill Bill!"
+			 }
+
+}
